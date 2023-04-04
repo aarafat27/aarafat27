@@ -42,5 +42,5 @@
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aarafat27&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aarafat27&theme=react-dark)](https://github.com/aarafat27/github-readme-activity-graph)
 
