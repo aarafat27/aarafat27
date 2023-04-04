@@ -27,7 +27,8 @@
 <a href="https://fb.com/aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aarafat27" height="30" width="40" /></a>
 <a href="https://medium.com/@aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aarafat27" height="30" width="40" /></a>
 </p>
-## ⚡ Technologies
+
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
