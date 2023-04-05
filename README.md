@@ -1,9 +1,9 @@
 <p align="center"> 
   
-#  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" align="center">
+#  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Universe!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" align="center">
 </p>
-<h1 align="center">Hi 👋, I'm Aarafat</h1>
-<h3 align="center">a tech enthusiast!</h3>
+<!-- <h1 align="center">Hi 👋, I'm Aarafat</h1>-->
+<h3 align="center">I'm Aarafat, a tech enthusiast!</h3>
 
 <p align="center"> 
   Visitors count<br>
