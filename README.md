@@ -6,7 +6,7 @@
 <h3 align="center">I'm Aarafat, a tech enthusiast!</h3>
 
 <p align="center"> 
-  Visitors count<br>
+  <h3 Visitors count </h3> <br>
   <img src="https://profile-counter.glitch.me/aarafat27/count.svg" />
 </p>
 
