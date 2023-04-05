@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarafat27" alt="aarafat27" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aarafat27" target="blank"><img src="https://img.shields.io/twitter/follow/aarafat27?logo=twitter&style=for-the-badge" alt="aarafat27" /></a> </p>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
