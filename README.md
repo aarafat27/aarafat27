@@ -1,6 +1,6 @@
-<p align="center" >
-#  <img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/Hi.gif" width="29px"><h1 align="center"> Hello Universe!&nbsp;</h1><img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/Earth.gif" width="24px" align="center">
-</p>
+<h1 align="center" >
+#  <img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/Hi.gif" width="29px"> Hello Universe!&nbsp;<img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/Earth.gif" width="24px" align="center">
+</h1>
 
 <!-- <h1 align="center">Hi 👋, I'm Aarafat</h1>-->
 <h3 align="center">I'm Aarafat, a tech enthusiast!</h3>
