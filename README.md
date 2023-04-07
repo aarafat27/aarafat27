@@ -48,9 +48,10 @@
 ![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PyTorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-black?style=flat-square&logo=tensorflow)
 ![Arduino](https://img.shields.io/badge/-arduino-black?style=flat-square&logo=arduino)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![OpenCV](https://img.shields.io/badge/-opencv-black?style=flat-square&logo=opencv)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarafat27&" alt="aarafat27" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarafat27&show_icons=true&locale=en&layout=compact" alt="aarafat27" /></p>
