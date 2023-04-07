@@ -51,7 +51,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-greem?style=flat-square&logo=numpy)
-
+![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=yolo)
 ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
