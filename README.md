@@ -37,8 +37,8 @@
 </p>
 
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-  href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
+
+ 
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -51,7 +51,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-greem?style=flat-square&logo=numpy)
-![Linux](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg alt="seaborn" width="10" height="20")
+
 ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
