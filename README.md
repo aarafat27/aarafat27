@@ -48,6 +48,6 @@
 
 
 <p>
-<img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/people.gif" width="60"> <em> <b>I like connecting with different people. So if you want to say hi, I'll be happy to meet you more!</b></em>
+<img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/people.gif" width="30"> <em> <b>I like connecting with different people. So if you want to say hi, I'll be happy to meet you more!</b></em>
 </p>
 
