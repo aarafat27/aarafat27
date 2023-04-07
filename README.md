@@ -51,7 +51,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-greem?style=flat-square&logo=numpy)
-![Linux](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
+![Linux](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg alt="seaborn" width="10" height="20")
 ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
