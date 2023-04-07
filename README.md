@@ -54,7 +54,7 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-![Linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarafat27&" alt="aarafat27" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarafat27&show_icons=true&locale=en&layout=compact" alt="aarafat27" /></p>
