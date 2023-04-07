@@ -50,10 +50,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
-![Tensorflow](https://img.shields.io/badge/-tensorflow-black?style=flat-square&logo=tensorflow)
-![Arduino](https://img.shields.io/badge/-arduino-black?style=flat-square&logo=arduino)
-![OpenCV](https://img.shields.io/badge/-opencv-black?style=flat-square&logo=opencv)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarafat27&" alt="aarafat27" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarafat27&show_icons=true&locale=en&layout=compact" alt="aarafat27" /></p>
