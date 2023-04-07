@@ -70,7 +70,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarafat27&" alt="aarafat27" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarafat27&" alt="aarafat27" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarafat27&show_icons=true&locale=en&layout=compact" alt="aarafat27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarafat27&show_icons=true&locale=en" alt="aarafat27" /></p>
