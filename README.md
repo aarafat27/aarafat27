@@ -48,8 +48,6 @@
 
 
 <p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/people.gif" width="60"> <em> <b>I love connecting with different people. So if you want to say hi, I'll be happy to meet you more!</b> :)</em>
 </p>
-<p>
-<a href="https://stats.hyochan.dev/en/stats/aarafat27"><img src="https://stats.hyochan.dev/api/github-stats?login=aarafat27" width="600" /></a>
-<p>
+
