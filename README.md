@@ -47,7 +47,7 @@ BLOG-POST-LIST:END -->
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-c%20sharp-black?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/-c%20sharp-blue?style=flat-square&logo=csharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
