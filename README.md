@@ -24,6 +24,11 @@
 - 📫 How to reach me **arafatedu11@gmail.com**
 
 
+<!-- BLOG-POST-LIST:START 
+### Blogs posts
+
+<a href="https://medium.com/@aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aarafat27" height="30" width="40" /></a>
+BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
