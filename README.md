@@ -16,7 +16,7 @@
 - ✨ Dedicating all of my energy & focus to building <a href="https://academiachain.com/">**AcademiaChain**</a> 
 - 🔭 My favorite side project is <a href="https://alphabitx.com/">**AlphaBitX**</a>
 - 📝 I share my thoughts and ideas with the world on <a href="https://medium.com/@aarafat27">**Medium**</a>
-- 📫 How to reach me **arafatedu11@gmail.com**
+- 📫 Have an idea? <a href="mailto:your.email@example.com">**Drop a line to...**</a>
 
 
 <!-- BLOG-POST-LIST:START 
