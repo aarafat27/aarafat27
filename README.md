@@ -9,14 +9,10 @@
 <!-- <h3 align="center">I'm Aarafat, a tech enthusiast!</h3> -->
 
 
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarafat27" alt="aarafat27" /></a> </p> -->
-
-
 <img align="right" height="180px" width="300px" alt="GIF" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/space.gif" />
 
 - 🌱 I’m currently working on **Blockchain Technology.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+- 🎓 Studies Computer Science and Engineering at <a href="https://www.aiub.edu/">**AIUB**</a> 
 - 📝 I regularly write articles on [https://medium.com/@aarafat27](https://medium.com/@aarafat27)
 
 - 💬 Ask me about **python**
