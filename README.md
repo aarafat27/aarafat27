@@ -30,7 +30,7 @@ BLOG-POST-LIST:END -->
 <h2>👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
      
 <p align="center">     
-  <img src="https://img.shields.io/badge/Clustering-brightgreen" />
+  <img src="https://img.shields.io/badge/Artificial General Intelligence-brightgreen" />
   <img src="https://img.shields.io/badge/Research-Classification-green" /> 
   <img src="https://img.shields.io/badge/Research-Machine%20Learning-yellowgreen" /> <br />
   <img src="https://img.shields.io/badge/Research-Data%20Visualization-yellow" /> 
