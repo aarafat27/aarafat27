@@ -25,7 +25,7 @@
 
 <a href="https://medium.com/@aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aarafat27" height="30" width="40" /></a>
 BLOG-POST-LIST:END -->
-## 
+
 <p align="center">
 <h2>👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
      
