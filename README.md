@@ -2,8 +2,9 @@
   <img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/Hi.gif" width="29px"> Hello Universe!&nbsp;<img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/Earth.gif" width="24px" align="center">
 </h1>
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Aarafat%2C+a+tech+enthusiast!" alt="Typing SVG" /></a>
-
+</p>
 
 <!-- <h3 align="center">I'm Aarafat, a tech enthusiast!</h3> -->
 
