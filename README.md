@@ -15,7 +15,7 @@
 
 <img align="right" height="180px" width="300px" alt="GIF" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/space.gif" />
 
-- 🌱 I’m currently learning **Deep learning & Blockchain** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently working on **Blockchain Technology.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📝 I regularly write articles on [https://medium.com/@aarafat27](https://medium.com/@aarafat27)
 
