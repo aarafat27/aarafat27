@@ -27,7 +27,7 @@
 BLOG-POST-LIST:END -->
 ## 
 <p align="center">
-<h2👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
+<h2>👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
      
 <p align="center">     
   <img src="https://img.shields.io/badge/Research-Clustering-brightgreen" />
