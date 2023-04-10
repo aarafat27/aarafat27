@@ -27,8 +27,8 @@
 BLOG-POST-LIST:END -->
 ## 
 <p align="center">
-👩🏻‍💻🔍 A Look into My Research Interests <br />
-Pronouns: she/her      
+<h2👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
+     
 <p align="center">     
   <img src="https://img.shields.io/badge/Research-Clustering-brightgreen" />
   <img src="https://img.shields.io/badge/Research-Classification-green" /> 
