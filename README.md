@@ -31,22 +31,23 @@ BLOG-POST-LIST:END -->
      
 <p align="center">     
   <img src="https://img.shields.io/badge/Artificial General Intelligence-brightgreen" />
-  <img src="https://img.shields.io/badge/Research-Classification-green" /> 
-  <img src="https://img.shields.io/badge/Research-Machine%20Learning-yellowgreen" /> <br />
-  <img src="https://img.shields.io/badge/Research-Data%20Visualization-yellow" /> 
-  <img src="https://img.shields.io/badge/Research-Trend%20Analysis-orange" /> 
-  <img src="https://img.shields.io/badge/Research-Bioinformatics-important" /><br />
-  <img src="https://img.shields.io/badge/Research-Multiomics%20Data-ff69b4" /> 
-  <img src="https://img.shields.io/badge/Research-RNAseq-blue" /> 
-  <img src="https://img.shields.io/badge/Research-Methylation-lightgrey" /> <br /> 
-  <img src="https://img.shields.io/badge/Research-DNAseq-blueviolet" />  
-    <img src="https://img.shields.io/badge/Research-Microarray-red" />  
-  <img src="https://img.shields.io/badge/Research-Protein%20Structure%20Modeling-9cf" /> <br />
-    <img src="https://img.shields.io/badge/Focus-Statistics-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Assessment-blueviolet" />
-  <img src="https://img.shields.io/badge/Focus-Teaching-blue" /> <br />
-  <img src="https://img.shields.io/badge/City-Toronto-blueviolet" />
-  <img src="https://img.shields.io/badge/Country-Canada-red" />
+  <img src="https://img.shields.io/badge/Machine Learning-green" /> 
+  <img src="https://img.shields.io/badge/Deep%20Learning-yellowgreen" /> <br />
+  <img src="https://img.shields.io/badge/Data%20Visualization-yellow" /> 
+  <img src="https://img.shields.io/badge/Computer Vision-orange" /> 
+  <img src="https://img.shields.io/badge/Image Processing-important" /><br />
+  <img src="https://img.shields.io/badge/Neural Networks-ff69b4" /> 
+  <img src="https://img.shields.io/badge/Explainable AI-blue" /> 
+  <img src="https://img.shields.io/badge/Human Computer Interaction-lightgrey" /> <br /> 
+  <img src="https://img.shields.io/badge/Data Science-blueviolet" />  
+    <img src="https://img.shields.io/badge/Data Mining-red" />  
+  <img src="https://img.shields.io/badge/Quantum Computing-9cf" /> <br />
+    <img src="https://img.shields.io/badge/Fuzzy Logic-brightgreen" />
+  <img src="https://img.shields.io/badge/Fuzzy Systems-blueviolet" />
+  <img src="https://img.shields.io/badge/Transfer Learning-blue" /> <br />
+  <img src="https://img.shields.io/badge/Blockchain-blueviolet" />
+  <img src="https://img.shields.io/badge/Algorithm-red" />
+  <img src="https://img.shields.io/badge/Graph Theory-blue" />
 </p>
 
 <br />
