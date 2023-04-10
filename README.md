@@ -31,7 +31,7 @@ BLOG-POST-LIST:END -->
      
 <p align="center">     
   <img src="https://img.shields.io/badge/Artificial General Intelligence-brightgreen" />
-  <img src="https://img.shields.io/badge/Machine Learning-green" /> 
+  <img src="https://img.shields.io/badge/Machine Learning-blueviolet" /> 
   <img src="https://img.shields.io/badge/Deep%20Learning-yellowgreen" /> <br />
   <img src="https://img.shields.io/badge/Data%20Visualization-yellow" /> 
   <img src="https://img.shields.io/badge/Computer Vision-critical" /> 
@@ -43,7 +43,7 @@ BLOG-POST-LIST:END -->
     <img src="https://img.shields.io/badge/Data Mining-red" />  
   <img src="https://img.shields.io/badge/Quantum Computing-9cf" /> <br />
     <img src="https://img.shields.io/badge/Fuzzy Logic-brightgreen" />
-  <img src="https://img.shields.io/badge/Fuzzy Systems-blueviolet" />
+  <img src="https://img.shields.io/badge/Fuzzy Systems-green" />
   <img src="https://img.shields.io/badge/Transfer Learning-ff69b4" /> <br />
   <img src="https://img.shields.io/badge/Blockchain-blueviolet" />
   <img src="https://img.shields.io/badge/Algorithm-red" />
