@@ -30,7 +30,8 @@
 <a href="https://medium.com/@aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aarafat27" height="30" width="40" /></a>
 BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+
+## ☎️ Connect with me:
 <p align="left">
 <a href="https://twitter.com/aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aarafat27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarafat27" height="30" width="40" /></a>
