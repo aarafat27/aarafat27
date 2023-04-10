@@ -13,7 +13,8 @@
 
 - 🌱 I'm currently exploring the exciting world of **Blockchain.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 Studies Computer Science and Engineering at <a href="https://www.aiub.edu/">**AIUB**</a> 
-- ✨ I've been dedicating all of my energy & focus to building <a href="https://academiachain.com/">**AcademiaChain**</a> 
+- ✨ Dedicating all of my energy & focus to building <a href="https://academiachain.com/">**AcademiaChain**</a> 
+- 🔭 My favorite side project is <a href="https://alphabitx.com/">**AlphaBitX**</a>
 - 📝 I regularly write articles on [https://medium.com/@aarafat27](https://medium.com/@aarafat27)
 
 - 💬 Ask me about **python**
