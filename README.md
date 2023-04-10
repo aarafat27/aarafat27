@@ -34,7 +34,7 @@ BLOG-POST-LIST:END -->
   <img src="https://img.shields.io/badge/Machine Learning-green" /> 
   <img src="https://img.shields.io/badge/Deep%20Learning-yellowgreen" /> <br />
   <img src="https://img.shields.io/badge/Data%20Visualization-yellow" /> 
-  <img src="https://img.shields.io/badge/Computer Vision-orange" /> 
+  <img src="https://img.shields.io/badge/Computer Vision-critical" /> 
   <img src="https://img.shields.io/badge/Image Processing-important" /><br />
   <img src="https://img.shields.io/badge/Artificial Neural Networks-ff69b4" /> 
   <img src="https://img.shields.io/badge/Explainable AI-blue" /> 
