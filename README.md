@@ -17,7 +17,19 @@
 - 📫 Have an idea? <a href="mailto:arafatedu11@gmail.com">**Drop a line to...**</a>
 
 
-<p align="center">
+<p align="center"> 
+   Visitors count <br>
+  <img src="https://profile-counter.glitch.me/aarafat27/count.svg" />
+</p>
+
+
+##
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aarafat27&theme=darcula&hide_border=true&background=FFFFFF00">  </p>
+<p><img align="left" width="62%" src="https://github-readme-stats.vercel.app/api?username=aarafat27&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"></p>
+ <img height="35%" width="35%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aarafat27&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10">
+ 
+ 
+ <p align="center">
 <h2>👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
      
 <p align="center">     
@@ -73,16 +85,6 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
-<p align="center"> 
-   Visitors count <br>
-  <img src="https://profile-counter.glitch.me/aarafat27/count.svg" />
-</p>
-
-
-##
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aarafat27&theme=darcula&hide_border=true&background=FFFFFF00">  </p>
-<p><img align="left" width="62%" src="https://github-readme-stats.vercel.app/api?username=aarafat27&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"></p>
- <img height="35%" width="35%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aarafat27&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10">
 
 ## 📝 My Latest Blog Post in Medium
 <p align="center"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0" alt="Recent Article 0"></a></p>
