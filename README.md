@@ -6,9 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=10000&color=34CCF7&center=true&vCenter=true&width=435&lines=I'm+Aarafat%2C+a+tech+enthusiast!" alt="Typing SVG" /></a>
 </p>
 
-<!-- <h3 align="center">I'm Aarafat, a tech enthusiast!</h3> -->
-
-
 <img align="right" height="180px" width="300px" alt="GIF" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/space.gif" />
 
 - 📚 I'm currently exploring the exciting world of **Blockchain** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -19,12 +16,6 @@
 - 🏸 Fun fact: I like playing **Badminton!🤾‍♂️**
 - 📫 Have an idea? <a href="mailto:arafatedu11@gmail.com">**Drop a line to...**</a>
 
-
-<!-- BLOG-POST-LIST:START 
-### Blogs posts
-
-<a href="https://medium.com/@aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aarafat27" height="30" width="40" /></a>
-BLOG-POST-LIST:END -->
 
 <p align="center">
 <h2>👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
@@ -51,7 +42,6 @@ BLOG-POST-LIST:END -->
   <img src="https://img.shields.io/badge/Graph Theory-blue" />
 </p>
 
-<br />
 
 ## ☎️ Connect with me:
 <p align="left">
@@ -60,7 +50,6 @@ BLOG-POST-LIST:END -->
 <a href="https://fb.com/aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aarafat27" height="30" width="40" /></a>
 <a href="https://medium.com/@aarafat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aarafat27" height="30" width="40" /></a>
 </p>
-
 
 
  
@@ -95,14 +84,9 @@ BLOG-POST-LIST:END -->
 <p><img align="left" width="62%" src="https://github-readme-stats.vercel.app/api?username=aarafat27&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"></p>
  <img height="35%" width="35%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aarafat27&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10">
 
-
-
 ## 📝 My Latest Blog Post in Medium
 <p align="center"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0" alt="Recent Article 0"></a></p>
 <p align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/1" alt="Recent Article 1"></a></p>
-
-
-
 
 
 <p>
