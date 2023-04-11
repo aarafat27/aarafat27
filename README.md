@@ -26,8 +26,28 @@
 <p><img align="left" width="62%" src="https://github-readme-stats.vercel.app/api?username=aarafat27&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"></p>
  <img height="35%" width="35%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aarafat27&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10">
  
- 
- <p align="center">
+ ## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-c%20sharp-blue?style=flat-square&logo=csharp)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-greem?style=flat-square&logo=numpy)
+![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=yolo)
+![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
+
+<p align="center">
 <h2>👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
      
 <p align="center">     
@@ -63,25 +83,6 @@
 
 
  
-## ⚡ Technologies
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-c%20sharp-blue?style=flat-square&logo=csharp)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-greem?style=flat-square&logo=numpy)
-![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=yolo)
-![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 
 ## 📝 My Latest Blog Post in Medium
