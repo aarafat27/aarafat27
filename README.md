@@ -28,7 +28,6 @@
  
  ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 <a href="https://github.com/search?q=user%aarafat27+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 <a href="https://github.com/search?q=user%aarafat27+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
