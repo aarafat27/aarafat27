@@ -34,7 +34,6 @@
 <a href="https://github.com/search?q=user%aarafat27+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-E34A86.svg?logo=java&logoColor=white"></a>
 <a ><img alt="C#" src="https://img.shields.io/badge/C%20sharp%20-%2300599C.svg?logo=csharp&logoColor=white"></a>
 <a><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
