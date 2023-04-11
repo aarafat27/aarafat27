@@ -92,18 +92,10 @@ BLOG-POST-LIST:END -->
 
 ##
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aarafat27&theme=darcula&hide_border=true&background=FFFFFF00">  </p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=aarafat27&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"></p>
+<p><img align="left"src="https://github-readme-stats.vercel.app/api?username=aarafat27&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"></p>
  <img height="40%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aarafat27&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10">
 
-##
-<p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aarafat27&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"></p>
- <img align="left"height="50%" width="100%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aarafat27&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
- <p><img align="center" img src ="https://github-readme-streak-stats.herokuapp.com?user=aarafat27&theme=darcula&hide_border=true&background=FFFFFF00"></p>
-  <br>
-</p>
 
-##
 
 ## 📝 My Latest Blog Post in Medium
 <p align="center"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0" alt="Recent Article 0"></a></p>
