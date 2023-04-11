@@ -31,8 +31,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 <a href="https://github.com/search?q=user%aarafat27+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-<a href="https://github.com/search?q=user%aarafat27+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
+<a href="https://github.com/search?q=user%aarafat27+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%2962FF.svg?logo=c%2B%2B&logoColor=white"></a>
 ![C#](https://img.shields.io/badge/-c%20sharp-blue?style=flat-square&logo=csharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
