@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Deep%20Learning-yellowgreen" /> <br />
   <img src="https://img.shields.io/badge/Data%20Visualization-yellow" /> 
-  <img src="https://img.shields.io/badge/Computer%20Vision-43F5FF?logo=teradata&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Computer%20Vision-43F5FF?logo=teradata&logoColor=black" /> 
    <img src="https://img.shields.io/badge/Explainable AI-blue" /> 
   <img src="https://img.shields.io/badge/Image Processing-important" /><br />
   <img src="https://img.shields.io/badge/Artificial Neural Networks-ff69b4" /> 
