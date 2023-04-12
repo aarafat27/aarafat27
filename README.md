@@ -46,7 +46,7 @@
 <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-FFFFFF.svg?logo=opencv&logoColor=black">
 <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+<a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-FFFFFF.svg?logo=microsoftoffice&logoColor=red"></a>
 <a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-F7ED28?logo=pycharm&logoColor=black"></a>
 <a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
