@@ -46,7 +46,7 @@
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300599C.svg?logo=arduino&logoColor=white"></a>
 <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-FFFFFF.svg?logo=opencv&logoColor=black">
 <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-FEFFFF.svg?logo=linux&logoColor=yellow"></a>
+<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-FEFFFF.svg?logo=linux&logoColor=black"></a>
 
 
 
