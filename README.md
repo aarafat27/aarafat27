@@ -40,6 +40,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-greem?style=flat-square&logo=numpy)
 ![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=yolo)
+<a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO%20-FF00A0.svg?logo=yolo&logoColor=cyan">
 ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![PyTorch](https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=red)
