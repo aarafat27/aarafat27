@@ -41,6 +41,7 @@
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=red">
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+<a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-0A9EDC.svg?logo=plotly&logoColor=white"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-FFFFFF.svg?logo=opencv&logoColor=black">
 <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
