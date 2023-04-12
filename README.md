@@ -109,10 +109,10 @@
 ## :book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/aarafat27/aarafat27/issues/new?template=guestbook-entry.md">here</a>!</p>
 
-<div align="center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&width=435&lines=Thanks+for+your+visit!+Hope+you+got+something+interesting!" alt="Typing SVG" /></a>
-</div>
+</p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top&color=0ECBED&style=flat&logo" alt="Back to top" /></a></p>
-<div align="center" ><img height="180px" width="300px" alt="GIF"src="https://github.com/aarafat27/aarafat27/blob/main/Assets/solar%20system.gif"></div>
+<div align="center" ><img height="250px" width="300px" alt="GIF"src="https://github.com/aarafat27/aarafat27/blob/main/Assets/solar%20system.gif"></div>
 
