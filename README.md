@@ -37,13 +37,14 @@
 <a><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white">
 <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO%20-FF00A0.svg?logo=yolo&logoColor=cyan">
-<a href="#"><img alt="YOLO" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=red">
+<a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=red">
 <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300599C.svg?logo=arduino&logoColor=white"></a>
+<a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-FFFFFF.svg?logo=opencv&logoColor=black">
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
