@@ -65,7 +65,7 @@
      
 <p align="center">     
   <img src="https://img.shields.io/badge/Artificial General Intelligence-6EE5A9" />
-  <img src="https://img.shields.io/badge/Machine Learning-CA70E7" /> 
+  <img src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Deep%20Learning-yellowgreen" /> <br />
   <img src="https://img.shields.io/badge/Data%20Visualization-yellow" /> 
   <img src="https://img.shields.io/badge/Computer Vision-critical" /> 
