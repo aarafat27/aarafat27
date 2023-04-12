@@ -54,6 +54,7 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2666EF.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode%20-F810D1.svg?logo=leetcode&logoColor=black"></a>
+<a><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-090000.svg?logo=bitcoin&logoColor=white"></a>
 <a href="#"><img alt="OS-Windows" src="https://img.shields.io/badge/Windows%20-E9F4F4.svg?logo=windows&logoColor=blue"></a>
 <a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-FEFFFF.svg?logo=linux&logoColor=black"></a>
 <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT%20-00B909.svg?logo=openAI&logoColor=black"></a>
