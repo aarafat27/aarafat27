@@ -110,7 +110,7 @@
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/aarafat27/aarafat27/issues/new?template=guestbook-entry.md">here</a>!</p>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&width=435&lines=Thanks+for+your+visit!;Hope+you+got+something+interesting!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&width=435&lines=Thanks+for+your+visit!;Hope+you+got+something+interesting!" alt="Typing SVG" /></a>
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top&color=0ECBED&style=flat&logo" alt="Back to top" /></a></p>
