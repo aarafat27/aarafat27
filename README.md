@@ -50,11 +50,9 @@
 <a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-F7ED28?logo=pycharm&logoColor=black"></a>
 <a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
-<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Tech-DataScience" src="https://img.shields.io/badge/Data%20Science-18A497?logo=teradata&logoColor=white"></a>
-<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computer%20Vision-3DDC84?logo=teradata&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2666EF.svg?logo=visual-studio-code&logoColor=white"></a>
+<a><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="#"><img alt="OS-Windows" src="https://img.shields.io/badge/Windows%20-E9F4F4.svg?logo=windows&logoColor=blue"></a>
 <a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-FEFFFF.svg?logo=linux&logoColor=black"></a>
 
