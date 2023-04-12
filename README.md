@@ -42,9 +42,9 @@
 <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=red">
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300599C.svg?logo=arduino&logoColor=white"></a>
 <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-FFFFFF.svg?logo=opencv&logoColor=black">
 <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300599C.svg?logo=arduino&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-FFFFFF.svg?logo=microsoftoffice&logoColor=red"></a>
 <a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-F7ED28?logo=pycharm&logoColor=black"></a>
