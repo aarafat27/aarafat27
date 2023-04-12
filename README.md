@@ -68,7 +68,7 @@
    <img src="https://img.shields.io/badge/Explainable AI-blue" /> 
   <img src="https://img.shields.io/badge/Image Processing-important" /><br />
   <img src="https://img.shields.io/badge/Artificial Neural Networks-ff69b4" /> 
-  <img src="https://img.shields.io/badge/Human Computer Interaction-darkred" /> <br /> 
+  <img src="https://img.shields.io/badge/Human Computer Interaction-F40101" /> <br /> 
   <img src="https://img.shields.io/badge/Data Science-blueviolet" />  
     <img src="https://img.shields.io/badge/Data Mining-red" />  
   <img src="https://img.shields.io/badge/Quantum Computing-9cf" /> 
