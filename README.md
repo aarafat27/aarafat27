@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/Data Mining-red" />  
   <img src="https://img.shields.io/badge/Quantum Computing-9cf" /> 
    <img src="https://img.shields.io/badge/Internet of Things-brightgreen" /><br />
-    <img src="https://img.shields.io/badge/Fuzzy Logic-brightgreen" />
+    <img src="https://img.shields.io/badge/Fuzzy Logic-565AFE" />
   <img src="https://img.shields.io/badge/Fuzzy Systems-green" />
   <img src="https://img.shields.io/badge/Transfer Learning-ff69b4" /> <br />
   <img src="https://img.shields.io/badge/Blockchain-FF0000" />
