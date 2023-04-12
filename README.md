@@ -34,7 +34,6 @@
 <a href="https://github.com/search?q=user%aarafat27+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-E34A86.svg?logo=java&logoColor=white"></a>
 <a ><img alt="C#" src="https://img.shields.io/badge/C%20sharp%20-%2300599C.svg?logo=csharp&logoColor=white"></a>
 <a><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white">
 <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO%20-FF00A0.svg?logo=yolo&logoColor=cyan">
 <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=red">
@@ -46,6 +45,7 @@
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300599C.svg?logo=arduino&logoColor=white"></a>
 <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-FFFFFF.svg?logo=opencv&logoColor=black">
 <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 <a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-F7ED28?logo=pycharm&logoColor=black"></a>
 <a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
