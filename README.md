@@ -117,6 +117,6 @@
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top&color=0ECBED&style=flat&logo" alt="Back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/solar%20system.gif"></div>
+<div align="center" ><img alt="" width="auto" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/solar%20system.gif"></div>
 
 
