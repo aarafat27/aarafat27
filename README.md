@@ -45,8 +45,8 @@
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300599C.svg?logo=arduino&logoColor=white"></a>
 <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-FFFFFF.svg?logo=opencv&logoColor=black">
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=yellow"></a>
+
 
 
 <p align="center">
