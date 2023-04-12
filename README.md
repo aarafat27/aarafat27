@@ -60,7 +60,7 @@
 <h2>👩🏻‍💻🔍 A Look into My Research Interests </h2> <br />
      
 <p align="center">     
-  <img src="https://img.shields.io/badge/Artificial General Intelligence-brightgreen" />
+  <img src="https://img.shields.io/badge/Artificial General Intelligence-6EE5A9" />
   <img src="https://img.shields.io/badge/Machine Learning-blueviolet" /> 
   <img src="https://img.shields.io/badge/Deep%20Learning-yellowgreen" /> <br />
   <img src="https://img.shields.io/badge/Data%20Visualization-yellow" /> 
