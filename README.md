@@ -55,6 +55,7 @@
 <a><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode%20-F810D1.svg?logo=leetcode&logoColor=black"></a>
 <a href="#"><img alt="OS-Windows" src="https://img.shields.io/badge/Windows%20-E9F4F4.svg?logo=windows&logoColor=blue"></a>
 <a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-FEFFFF.svg?logo=linux&logoColor=black"></a>
+<a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT%20-00B909.svg?logo=openAI&logoColor=black"></a>
 
 
 
