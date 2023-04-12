@@ -35,11 +35,7 @@
 <a ><img alt="C#" src="https://img.shields.io/badge/C%20sharp%20-%2300599C.svg?logo=csharp&logoColor=white"></a>
 <a><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?logo=github&logoColor=white"></a>
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white">
-![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-greem?style=flat-square&logo=numpy)
-![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=yolo)
 <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO%20-FF00A0.svg?logo=yolo&logoColor=cyan">
 ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
