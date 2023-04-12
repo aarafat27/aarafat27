@@ -37,7 +37,6 @@
 <a><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white">
 <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO%20-FF00A0.svg?logo=yolo&logoColor=cyan">
-![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![PyTorch](https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=red)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
