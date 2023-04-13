@@ -105,10 +105,10 @@
 <p>
 <img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/people.gif" width="30"> <em> <b>I like connecting with different people. So if you want to say hi, I'll be happy to meet you more!</b></em>
 </p>
-  
+<!--  
 ## :book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/aarafat27/aarafat27/issues/new?template=guestbook-entry.md">here</a>!</p>
-
+-->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=13&pause=2000&width=435&lines=Thanks+for+your+visit!+Hope+you+got+something+interesting!" alt="Typing SVG" /></a>
 </p>
