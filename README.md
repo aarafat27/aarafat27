@@ -87,7 +87,7 @@
 </p>
 
 
-## ☎️ Connect with me:
+## ☎️ Connect with Me
 <p align="left">
 <a href="https://twitter.com/aarafat27" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"></a>
 <a href="https://linkedin.com/in/aarafat27" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
