@@ -114,5 +114,5 @@
 </p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top&color=0ECBED&style=flat&logo" alt="Back to top" /></a></p>
-<div align="center" ><img align="center" height="180px" width="300px" alt="GIF" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/wifi.gif""></div>
+<div align="center" ><img align="center" height="200px" width="300px" alt="GIF" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/wifi.gif""></div>
 
