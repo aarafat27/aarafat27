@@ -103,7 +103,7 @@
 
 
 <p>
-<img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/people.gif" width="30"> <em> <b>I like connecting with different people. So if you want to say hi, I'll be happy to meet you more!</b></em>
+<img src="https://github.com/aarafat27/aarafat27/blob/main/Assets/people.gif" width="30"> <em> <b>I enjoy meeting new people. Feel free to say hi; I'd be happy to connect with you!</b></em>
 </p>
 <!--  
 ## :book: Guestbook</h2>
