@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&width=435&lines=Intelligence+encoded%2C+one+neural+byte+at+a+time!;Forging+the+nexus+of+human+and+artificial+intelligence" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&width=435&lines=From+circuits+to+consciousness%2C+in+code+we+align%2C;Intelligence+encoded%2C+one+neural+byte+at+a+time!" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" height="180px" width="300px" alt="GIF" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/space.gif" />
