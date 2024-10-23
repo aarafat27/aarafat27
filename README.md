@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=10000&color=34CCF7&center=true&vCenter=true&width=435&lines=I'm+Aarafat%2C+a+Machine+Learning+enthusiast!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&width=435&lines=Intelligence+encoded%2C+one+neural+byte+at+a+time!;Forging+the+nexus+of+human+and+artificial+intelligence" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" height="180px" width="300px" alt="GIF" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/space.gif" />
