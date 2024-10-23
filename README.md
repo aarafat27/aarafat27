@@ -10,8 +10,8 @@
 
 - 📚 I'm currently exploring the exciting world of **AI** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 Studied Computer Science and Engineering at <a href="https://www.aiub.edu/">**AIUB**</a> 
-- ✨ Dedicating all of my energy & focus to building <a href="https://academiachain.com/">**AcademiaChain**</a> 
-- 🔭 My favorite side project is <a href="https://alphabitx.com/">**AlphaBitX**</a>
+- ✨ Dedicating all of my energy & focus to building <a href="https://pspectra.com/">**P Spectra**</a> 
+<!- 🔭 My favorite side project is <a href="https://alphabitx.com/">**AlphaBitX**</a> >
 - 📝 I share my thoughts and ideas with the world on <a href="https://medium.com/@aarafat27">**Medium**</a>
 - 🏸 Fun fact: I like playing **Badminton!🤾‍♂️**
 - 📫 Have an idea? <a href="mailto:arafatedu11@gmail.com">**Drop a line to...**</a>
