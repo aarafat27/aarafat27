@@ -100,9 +100,9 @@
 <p align="center"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0" alt="Recent Article 0"></a></p>
 <p align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/1" alt="Recent Article 1"></a></p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/2" alt="Recent Article 2"> 
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aarafat27/1" alt="Recent Article 1"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"></a> <br>
 
 
 
