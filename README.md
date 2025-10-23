@@ -9,7 +9,7 @@
 <img align="right" height="180px" width="300px" alt="GIF" src="https://github.com/aarafat27/aarafat27/blob/main/Assets/space.gif" />
 
 - 📚 I'm currently exploring the exciting world of **AI** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎓 Studied Computer Science and Engineering at <a href="https://www.aiub.edu/">**AIUB**</a> 
+- 🎓 M.Sc. in Computer Science (Image Processing) at <a href="https://www.aiub.edu/">**Sorbonne Université**</a> 
 - ✨ Dedicating all of my energy & focus to building <a href="https://pspectra.com/">**P Spectra**</a> <!--- 🔭 My favorite side project is <a href="https://alphabitx.com/">**AlphaBitX**</a> -->
 - 📝 I share my thoughts and ideas with the world on <a href="https://medium.com/@aarafat27">**Medium**</a>
 - 🏸 Fun fact: I like playing **Badminton!🤾‍♂️**
